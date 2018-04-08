@@ -33,10 +33,10 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Todoey" id="xFO-T6-qJM">
-                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="vLy-z5-fJN">
+                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="hHa-SN-F29">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="apz-hb-jVB" id="Mfr-gq-i0O"/>
+                                <action selector="addButtonPressed:" destination="apz-hb-jVB" id="Q16-J2-B5l"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
